@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InveonBootcamp", "InveonBootcamp\InveonBootcamp.csproj", "{67755B68-382A-488A-BB4D-99C342068DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InveonBootcamp_Part3", "InveonBootcamp_Part3\InveonBootcamp_Part3.csproj", "{F33F2D04-A03A-471C-ACC2-3971D8D75493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67755B68-382A-488A-BB4D-99C342068DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67755B68-382A-488A-BB4D-99C342068DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67755B68-382A-488A-BB4D-99C342068DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67755B68-382A-488A-BB4D-99C342068DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33F2D04-A03A-471C-ACC2-3971D8D75493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33F2D04-A03A-471C-ACC2-3971D8D75493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33F2D04-A03A-471C-ACC2-3971D8D75493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33F2D04-A03A-471C-ACC2-3971D8D75493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBB5959F-6FF9-4AC0-A4F2-9CB99C57429A}
+	EndGlobalSection
+EndGlobal

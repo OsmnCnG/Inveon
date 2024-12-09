@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\bin\Debug\net8.0\InveonBootcamp.exe
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\bin\Debug\net8.0\InveonBootcamp.deps.json
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\bin\Debug\net8.0\InveonBootcamp.runtimeconfig.json
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\bin\Debug\net8.0\InveonBootcamp.dll
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\bin\Debug\net8.0\InveonBootcamp.pdb
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\obj\Debug\net8.0\InveonBootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\obj\Debug\net8.0\InveonBootcamp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\obj\Debug\net8.0\InveonBootcamp.AssemblyInfo.cs
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\obj\Debug\net8.0\InveonBootcamp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\obj\Debug\net8.0\InveonBootcamp.dll
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\obj\Debug\net8.0\refint\InveonBootcamp.dll
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\obj\Debug\net8.0\InveonBootcamp.pdb
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\obj\Debug\net8.0\InveonBootcamp.genruntimeconfig.cache
+C:\Users\User\source\repos\InveonBootcamp\InveonBootcamp\obj\Debug\net8.0\ref\InveonBootcamp.dll
